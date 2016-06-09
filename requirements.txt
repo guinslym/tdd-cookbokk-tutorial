@@ -1,0 +1,17 @@
+backports.shutil-get-terminal-size==1.0.0
+coverage==4.1
+decorator==4.0.10
+Django==1.9.7
+ipdb==0.10.0
+ipython==4.2.0
+ipython-genutils==0.1.0
+pexpect==4.1.0
+pickleshare==0.7.2
+ptyprocess==0.5.1
+py==1.4.31
+pytest==2.9.2
+pytest-cov==2.1.0
+pytest-django==2.9.1
+pytest-ipdb==0.1.dev2
+simplegeneric==0.8.1
+traitlets==4.2.1
