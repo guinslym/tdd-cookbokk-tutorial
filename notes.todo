@@ -4,8 +4,8 @@ Notes:
 ☐ pytest coverage I needed to downgrade to 2.1.0
 ☐ .coveragerc Omit folders
 
-☐
+
 ☐ 1:08:24 for the anonymous user
-☐ didn't understand the ()()
-☐ self.get.client()
-☐ Why that we don't write an Assert for 404
+☐ didn't understand the double sets of parentheses ()() patern i.e.views.PostUpdateView.as_view()(req, pk=post.pk)
+☐ Do you think it will be better to use self.get.client() instead of the RequestFactory() because we can test the template ('birdie/update.html') also. Because right now for we seems to only mock the template.
+☐ In 'tests_views.py' in the method  the test_security(self): Why we don't write an Assert for 404 like we did for [assert post.body == 'New Body Text!', 'Should update the post']

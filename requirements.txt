@@ -17,7 +17,7 @@ traitlets==4.2.1
 mixer==5.5.7
 stripe==1.35.0
 mock==2.0.0
-
+flake8
 
 #important
 #use this versions

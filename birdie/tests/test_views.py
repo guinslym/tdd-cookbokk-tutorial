@@ -10,6 +10,7 @@ pytestmark = pytest.mark.django_db
 
 from .. import views
 
+
 class TestHomeView:
     def test_anonymous(self):
         req = RequestFactory().get('/')
