@@ -3,3 +3,9 @@ Notes:
 ☐ Create an In memory databases to speed up
 ☐ pytest coverage I needed to downgrade to 2.1.0
 ☐ .coveragerc Omit folders
+
+☐
+☐ 1:08:24 for the anonymous user
+☐ didn't understand the ()()
+☐ self.get.client()
+☐ Why that we don't write an Assert for 404
